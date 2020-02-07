@@ -1,0 +1,5 @@
+Hawaii Noviembre 1500 6 #582648
+Japon Diciembre 3000 12 #684792
+Los_Angeles Octubre 500 3 #123463
+Francia Febrero 2500 8 #657295
+New_York Septiembre 800 4 #264917
